@@ -1,6 +1,6 @@
 # Katalon Studio sample plugin for beginners
 
-This is a demostrated plugin that hooks into Plugin installation event and Katalon Studio execution event.
+This is a demostrated plugin that listen to `Plugin installation` event and `Katalon Studio execution` event.
 
 ## Build
 
